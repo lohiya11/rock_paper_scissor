@@ -1,6 +1,6 @@
 # ✊✋✌ Rock Paper Scissors Game  
 
-A simple *Rock Paper Scissors Game* built using *HTML, CSS, and JavaScript*.  
+A simple Rock Paper Scissors Game* built using *HTML, CSS, and JavaScript.  
 This project is part of my learning journey as a Frontend Developer and demonstrates *DOM manipulation, event handling, and basic game logic.  
 
 ---
@@ -20,7 +20,7 @@ This project is part of my learning journey as a Frontend Developer and demonstr
 ---
 
 ## 🌐 Live Demo
-👉 [Play the Game Here](https://USERNAME.github.io/rock-paper-scissors/)  
+👉 [Play the Game Here](https://lohiya11.github.io/rock_paper_scissor/) 
 
 ---
 
